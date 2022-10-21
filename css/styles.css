@@ -99,11 +99,11 @@ body {
     align-items: center;
 }
 
-#showcase .showcase-container h2 {
+#showcase .showcase-container h1 {
     font-size: 5rem;
 }
 
-#showcase .showcase-container h2 p {
+#showcase .showcase-container h1 p {
     margin: 15px 0;
     font-size: 1.1rem;
 }
@@ -146,7 +146,7 @@ body {
     font-size: 0.8rem;
 }
 
-/* FOOTER SOCIALS */ 
+/* FOOTER SOCIALS */
 
 .socials {
     display: flex;
@@ -197,12 +197,8 @@ body {
     justify-content: flex-end;
     margin-bottom: 10px;
     align-items: center;
-}
-
-.footer-info .rights .country {
     transition: all 300ms ease;
 }
-  
 
 .footer-info .rights .country p:hover {
     color: var(--default-green);
@@ -215,7 +211,3 @@ body {
     display: inline-block;
     margin-left: 10px;
 }
-
-
-
-
